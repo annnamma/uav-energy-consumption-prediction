@@ -1,5 +1,5 @@
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/annnamma/uav-energy-consumption-prediction/blob/main/UAV_Energy_Consumption_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/annnamma/uav-energy-consumption-prediction/blob/main/UAV_Energy_Consumption_Prediction .ipynb)
 
 # UAV Energy Consumption Prediction using Linear Regression and Decision Tree
 
