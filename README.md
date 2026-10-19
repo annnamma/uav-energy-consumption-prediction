@@ -15,7 +15,7 @@ Delivery drones run on batteries, so it helps to know how much energy a flight w
 
 ## Dataset
 
-Rodrigues, T. A., Patrikar, J., Choudhry, A., et al. "In-flight positional and energy use data set of a DJI Matrice 100 quadcopter for small package delivery." *Scientific Data* 8, 155 (2021). https://doi.org/10.1038/s41597-021-00930-x
+Rodrigues, T. A., Patrikar, J., Choudhry, A., et al. "In-flight positional and energy use data set of a DJI Matrice 100 quadcopter for small package delivery." *Scientific Data* 8, 155 (2021). 
 
 Dataset download: https://doi.org/10.1184/R1/12683453 (Carnegie Mellon University, "Data collected with package delivery quadcopter drone").
 
